@@ -1,4 +1,4 @@
-code: lapam-kc-manager
+code: ent-lapam-kc-manager
 description: Lapam keycloak manager
 components:
   plugins:

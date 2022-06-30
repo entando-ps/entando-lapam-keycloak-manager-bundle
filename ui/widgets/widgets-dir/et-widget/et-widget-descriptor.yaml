@@ -1,0 +1,6 @@
+code: lapam-kc-manager
+titles:
+  en: Entando Lapam Keycloak Manager
+  it: Entando Lapam Keycloak Manager
+group: free
+customUiPath: et-widget.ftl
