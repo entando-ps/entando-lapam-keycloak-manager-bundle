@@ -1,0 +1,6 @@
+image: germanogiudici/lapam-keycloak-manager:0.0.5-SNAPSHOT
+dbms: none
+ingressPath: "/lapam-keycloack-manager-api"
+healthCheckPath: "/actuator/health"
+roles:
+  - "lapam-admin"
