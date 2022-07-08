@@ -4,3 +4,6 @@ ingressPath: "/lapam-keycloack-manager-api"
 healthCheckPath: "/actuator/health"
 roles:
   - "lapam-admin"
+permissions:
+  - clientId: realm-management
+    role: realm-admin
